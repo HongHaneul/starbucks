@@ -30,20 +30,6 @@
 - `maximum-scale=1`: 사용자가 화면을 확대할 수 있는 최댓값
 - `minimum-scale=1`: 사용자가 화면을 축소할 수 있는 최솟값
 
-## 오픈 그래프(The Open Graph protocol)
-
-웹페이지가 소셜 미디어(페이스북 등)로 공유될 때 우선적으로 활용되는 정보를 지정합니다
-
-Slack -
-
-![Slack Open Graph example](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/slack_message_og_example.jpg)
-
-KakaoTalk -
-
-![KakaoTalk Open Graph example](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/kakao_og_example.jpg)
-
-[더 많은 오픈 그래프 속성 보기](https://ogp.me/)
-
 ## Favicon(파비콘, favorites icon)
 
 웹페이지를 나타내는 아이콘, 웹페이지의 로고를 설정합니다<br>
